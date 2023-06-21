@@ -1,4 +1,4 @@
-# river-network-wq-2020
+# river-network-wq-ukscape
 
 River reach-level machine learning estimation of nutrient concentrations in Great Britain
 
